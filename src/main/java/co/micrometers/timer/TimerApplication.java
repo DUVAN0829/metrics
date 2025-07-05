@@ -8,6 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 public class TimerApplication {
 
+    //todo -> Tiempo que toma una medida
     public static void main(String[] args) {
 
         MeterRegistry registry = new SimpleMeterRegistry();

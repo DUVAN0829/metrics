@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43272197-62bc-4442-a9be-527bc29e62a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/micrometers/gauge/GaugerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/micrometers/timer/TimerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/micrometers/gauge/GaugeApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/micrometers/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/micrometers/metrics/MetricApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/micrometers/metrics/MetricApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/micrometers/gauge/GaugerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/micrometers/timer/TimerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/micrometers/timer/TimerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GaugeApplication.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MetricApplication.executor": "Run",
     "Application.TimerApplication.executor": "Run",
